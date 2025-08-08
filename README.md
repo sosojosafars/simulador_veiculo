@@ -1,16 +1,4 @@
-# catalogo_produtos
 
-A new Flutter project.
+<img width="600" height="956" alt="Captura de Tela 2025-08-07 às 22 47 08" src="https://github.com/user-attachments/assets/05f8cd31-a4eb-4a32-828d-4ed0b52efbf3" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="600" height="956" alt="Captura de Tela 2025-08-07 às 22 47 19" src="https://github.com/user-attachments/assets/3d601505-69b9-4999-b6da-c5fa6e97fa8f" />
